@@ -20,10 +20,10 @@ This project is a simple and efficient **AC to DC Converter circuit** designed u
 
 ##  Previews
 
-![Schematic](images/schematic)
+![Schematic](images/schematic.png)
 *Figure: AC to DC Converter Schematic*
 
-![PCB Layout](images/pcb_layout)
+![PCB Layout](images/pcb_layout.png)
 *Figure: PCB Layout in KiCad*
 
 ---
