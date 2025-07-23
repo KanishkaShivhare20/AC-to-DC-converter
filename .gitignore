@@ -1,0 +1,51 @@
+# KiCad backup and autosave files
+*.bak
+*.kicad-bak
+*.autosave
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Simulation files
+*.log
+*.raw
+*.plt
+*.out
+
+# Netlist and reports
+*.xml
+*.net
+*.csv
+*.rpt
+
+# Gerber and manufacturing outputs
+*.gbr
+*.drl
+*.zip
+
+# Project backups and cache
+**/__pycache__/
+fp-info-cache
+.cache/
+.kicad_pcb-bak
+
+# 3D models (optional — include only if you generate them externally)
+*.step
+*.stp
+*.iges
+*.igs
+
+# User-specific settings
+*.kicad_prl
+*.kicad_wks
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.dcm
+*.pro
+
+# VSCode or JetBrains IDEs (if you're using them)
+.vscode/
+.idea/
