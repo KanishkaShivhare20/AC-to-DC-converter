@@ -1,0 +1,38 @@
+# === Temporary & Autosave Files ===
+*.bak
+*.kicad-bak
+*.autosave
+*.tmp
+*.swp
+
+# === Output/Generated Files ===
+*.log
+*.net
+*.xml
+*.dcm
+*.cache
+
+# === Cache & Backup Folders ===
+fp-info-cache/
+*-backups/
+sym-lib-table-backups/
+
+# === Gerber & Manufacturing Files (re-generated anytime) ===
+*.gbr
+*.gbo
+*.gbs
+*.gtl
+*.gts
+*.gto
+*.drl
+*.xln
+*.zip
+
+# === Simulation & Python Cache Files ===
+__pycache__/
+*.pyc
+
+# === System/OS Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
