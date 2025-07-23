@@ -18,22 +18,6 @@ This project is a simple and efficient **AC to DC Converter circuit** designed u
 
 ---
 
-## 📁 Folder Structure
-
-```
-ACtoDCconverter/
-├── ACtoDCconverter.kicad_pro     # KiCad project file
-├── ACtoDCconverter.kicad_sch     # Schematic design
-├── ACtoDCconverter.kicad_pcb     # PCB layout
-├── symbols/                      # Custom symbols (if any)
-├── footprints/                   # Custom footprints (if any)
-├── images/                       # Circuit images / screenshots
-├── gerber/                       # Manufacturing files (optional)
-└── README.md                     # Project documentation
-```
-
----
-
 ##  Previews
 
 ![Schematic](images/schematic)
